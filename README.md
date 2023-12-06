@@ -1,4 +1,4 @@
-# gestion_employe_machine
+# Gestion_employe_machine
 
 note: The source code will be shared later today.
 
